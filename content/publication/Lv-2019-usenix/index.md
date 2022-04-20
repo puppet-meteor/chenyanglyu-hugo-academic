@@ -1,26 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Anonymous"
+title: "MOPT: Optimized mutation scheduling for fuzzers"
 authors:
 - Chenyang Lyu
-- Jiacheng Xu
 - Shouling Ji
-- Xuhong Zhang
-- Qinying Wang
-- Binbin Zhao
-- Wei Cao
-- Alex X. Liu
+- Chao Zhang
+- Yuwei Li
+- Wei-Han Lee
+- Yu Song
 - Reheem Beyah
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "Submitted to CCS 2022"
+publication: "USENIX Security 2019"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2022-01-03'
+date: '2019-08-14'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
@@ -35,10 +33,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/system/files/sec19-lyu.pdf'
 # - name: Custom Link
 #   url: http://example.org
-url_code: ''
+url_code: 'https://github.com/puppet-meteor/MOPT-AFL'
 url_dataset: ''
 url_poster: ''
 url_project: ''
