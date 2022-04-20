@@ -25,17 +25,9 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou, China"
   date_start = "2017-07-01"
-  date_end = "2022-06-01"
+  date_end = ""
   description = ""
 
-[[experience]]
-  title = "Ph.D."
-  company = "NESA Lab, Zhejiang University"
-  company_url = ""
-  location = "Hangzhou, China"
-  date_start = "2017-07-01"
-  date_end = "2022-06-01"
-  description = ""
 
 
  # description = """Taught electronic engineering and researched semiconductor physics."""
