@@ -66,7 +66,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the School of Computer Science and Technology at  [Zhejiang University](https://www.zju.edu.cn/english/). I earned my bachelor’s degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2017. My research interest lies in fuzzing and data-driven technique. 
+I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the School of Computer Science and Technology at  [Zhejiang University](https://www.zju.edu.cn/english/). I earned my bachelor’s degree at [Huazhong University of Science and Technology](http://english.hust.edu.cn/) in 2017. My research interest lies in fuzzing and data-driven technique. 
 
 
 ### Recent News
